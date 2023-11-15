@@ -1,4 +1,4 @@
-https://zenoplay.zenomedia.com/api/zenofm/nowplaying/6ss1gdc7uv8uv<?php
+metadata<?php
 /////////////////////////////////////////////////////
 // READ META DATA FROM STREAMING URL
 //
